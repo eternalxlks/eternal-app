@@ -1,2 +1,2 @@
-# eternal-app
-Eternal-App! My App!
+# Eternal-App!
+Offical app of eternalxlks
